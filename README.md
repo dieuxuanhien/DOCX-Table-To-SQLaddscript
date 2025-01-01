@@ -1,3 +1,3 @@
-make sure to install python and execute
+make sure to install python and execute in cmd
 >pip install python-docx<
-in cmd
+
