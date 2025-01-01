@@ -1,5 +1,4 @@
 from docx import Document
-import pyperclip
 
 docx_path = "tables.docx"
 
